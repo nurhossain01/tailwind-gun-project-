@@ -1,0 +1,12 @@
+.gun-details{
+  text-align: center;
+}
+.gun-details h1{
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+.gun-details span{
+  color: orange;
+}
